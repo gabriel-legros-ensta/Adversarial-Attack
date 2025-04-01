@@ -1,8 +1,5 @@
 # Adversarial Attacks on Semantic Segmentation Models
 
-![Example of adversarial attack](https://via.placeholder.com/800x400?text=Adversarial+Attack+Visualization)  
-*Visualization of targeted adversarial perturbations on segmentation models*
-
 ## 📌 Project Overview
 This project implements **adversarial attacks** against semantic segmentation models (DeepLabV3 and FCN) to study their vulnerability to:
 - **Untargeted attacks** (disrupting predictions)
